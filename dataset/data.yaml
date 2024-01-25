@@ -1,0 +1,12 @@
+train: /kaggle/input/road-damage-tracking-dataset-rdtd-v10/train-pure/train-pure/images
+val: /kaggle/input/road-damage-tracking-dataset-rdtd-v10/valid/valid/images
+
+nc: 1
+names: ["damage"]
+
+roboflow:
+  workspace: merci
+  project: road-damage-tracker-yx8cw
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/merci/road-damage-tracker-yx8cw/dataset/2
