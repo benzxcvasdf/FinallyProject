@@ -26,4 +26,7 @@ float 0-1 ： 用來决定準確度\
 0 是是 0 % 合符就會label 
 
 
+https://code-with-me.global.jetbrains.com/_64fTYS4eXqopAJzivIKAA#p=PY&fp=CDA9B048B317F16B8080530159A56AC9D1B7596715A16932C220F057D39FEB74&newUi=true
+
+
 
