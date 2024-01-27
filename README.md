@@ -25,6 +25,7 @@ float 0-1 ： 用來决定準確度\
 1 是會 100% 合符才會label\
 0 是是 0 % 合符就會label 
 
-
+### dataset
+dataset zip 檔太大上傳唔到
 
 
