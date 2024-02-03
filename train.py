@@ -10,7 +10,7 @@ model = YOLO('yolov8n.yaml').load('yolov8n.pt')  # build from YAML and transfer 
 
 def run():
     torch.multiprocessing.freeze_support()
-    results = model.train(data='/Volumes/SanDisk/FCU/FinallyYearProject/FinallyProject/dataset/archive (1)/data.yaml', epochs=10, resume=True)
+    results = model.train(data='C:\\Users\\User\\PycharmProjects\\FinallyProject\\dataset\\archive (1)\\data.yaml', epochs=150, resume=True, device=0)
 
 if __name__ == '__main__':
     run()
